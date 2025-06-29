@@ -8,10 +8,10 @@ My solution to a HackerRank problem on TF-IDF document similarity.
 
 
 #### Sample Input
-They bought a red apples from the market.
-An apple pie is my favorite dessert.
-Oranges and apples are often compared.
-I prefer bananas over oranges any day.
+1. They bought a red apples from the market.
+2. An apple pie is my favorite dessert.
+3. Oranges and apples are often compared.
+4. I prefer bananas over oranges any day.
 
 #### Expected Output
 2
